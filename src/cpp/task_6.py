@@ -1,7 +1,6 @@
 /*
  * Author:Raximberdi
  * Date:
- * Name:
  */
 
 from collections import deque
